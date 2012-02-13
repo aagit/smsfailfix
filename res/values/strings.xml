@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmsFailFix</string>
+    <string name="text0">Now you can close this app and (if needed) all newly incoming SMS will be adjusted automatically.</string>
+    <string name="text1">SmsFailFix forces Android to use only the Service Center number configured in your phone to deliver all your outgoing SMS.</string>
+    <string name="text2">After running it the first time, it is started automatically during SMS reception.</string>
+    <string name="text3">The only way to disable it is to uninstall it.</string>
+    <string name="license">This work is licensed under the terms of the GNU GPL, version 2.</string>
+</resources>
